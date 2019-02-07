@@ -1,0 +1,5 @@
+Row,bonus,direction,bonusScore,baseScore,moveScore,time,totalScore
+back roundhouse,None,left,0,20,20,0 sec,20
+cartwheel,None,right,0,30,30,3 sec,50
+shuvit,Air,right,10,5,15,5 sec,65
+air screw,Air,right,50,140,190,9 sec,255
